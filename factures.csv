@@ -1,0 +1,4 @@
+#TYPE System.Management.Automation.PSCustomObject;;;;;;;;;;;;;;;;;;;;;;
+ID;ClientID;SKU1;Description1;Prix1;SKU2;Description2;Prix2;SKU3;Description3;Prix3;SKU4;Description4;Prix4;SKU5;Description5;Prix5;Total;Sous_Total;TPS;TVQ;Time;Rabais
+;;;;;;;;;;;;;;;;;;;;;;
+

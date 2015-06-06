@@ -1,0 +1,3 @@
+#TYPE System.Management.Automation.PSCustomObject
+"ID","Nom","Prenom","Email","Tel1","Tel2","Rue","Ville","Province","Pays","CodePostal","Time"
+
